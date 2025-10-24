@@ -55,18 +55,16 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasirutheekshana&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasirutheekshana&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirutheekshana&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirutheekshana&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirutheekshana&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss&exclude_repo=github-readme-stats" />
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yasirutheekshana&theme=radical&no-bg=true&no-frame=true" alt="yasirutheekshana" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=yasirutheekshana&theme=radical&no-bg=true&no-frame=true&row=2&column=4" alt="yasirutheekshana" />
 </p>
 
 ---
